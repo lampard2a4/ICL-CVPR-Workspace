@@ -1,4 +1,4 @@
-Since there is a 25MB limit on files uploaded, I uploaded my pictures to the onedrive attached to my student account and I suggest that my collaborator do the same :)
+Since there is a 25MB limit on every file uploaded, I uploaded my pictures to the onedrive attached to my student account and I suggest my collaborator do the same :)
 
 FD:
 
