@@ -1,0 +1,21 @@
+
+
+Task 2:
+
+T2_4.fd.m is used for automatic matching for both FD and HG sets.
+
+T2.2.matching_manual.m is used to do manual matching.
+
+
+
+Task 4:
+
+First, compile and run T4.2.hough.m to know positions of crossing lines and vanishing points.
+
+Then use T4.2.VPs_manual.m to draw vanishing poins and the horizon based on prvious observations in T4.2.hough.m.
+
+T4.2.add_epp.m is used to add epipoles which are outside the image.
+
+Task 5:
+
+To start with, you need to have your photos undistorted. Then feed undistorted pictures to T5.1.stereo_rect.m, and you will get stereo rectified photos.
